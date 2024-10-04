@@ -1,5 +1,6 @@
 <?php include 'inc/header.php' ?>
 
+
 <header>
   <div class="section__container">
     <div class="header__content">
@@ -12,7 +13,7 @@
         adventure. Get ready to explore the world your adventure begins
         here!
       </p>
-      <button>Book Now!</button>
+      <a class="link" href="./book.php">Book NOW</a>
     </div>
   </div>
 </header>

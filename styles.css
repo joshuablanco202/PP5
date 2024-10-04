@@ -121,7 +121,7 @@ header .section__container {
   text-align: center;
 }
 
-.header__content button {
+.header__content a {
   padding: 1rem 2rem;
   outline: none;
   border: none;
